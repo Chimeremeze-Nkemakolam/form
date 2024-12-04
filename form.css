@@ -1,0 +1,44 @@
+#parent{
+    background-color: gray;
+    width: 30%;
+    margin: auto;
+
+}
+input[type=text]{
+    width: 60%;
+    margin-left: 40px;
+    padding: 7px 12px;
+    border-radius: 7px;
+    
+}
+
+input[type=email]{
+    width: 60%;
+    margin-left: 40px;
+    padding: 7px 12px;
+    border-radius: 7px;
+}
+input[type=number]{
+    width: 60%;
+    margin-left: 40px;
+    padding: 7px 12px;
+    border-radius: 7px;
+}
+input[type=password]{
+    width: 60%;
+    margin-left: 40px;
+    padding: 7px 12px;
+    border-radius: 7px;
+}
+input[type=submit]{
+    width: 60px;
+    margin-left: 140px;
+}
+label{
+    margin-left: 120px;
+}
+#checkbox{
+    left: 20px;
+}
+
+input[type=radio]{}
